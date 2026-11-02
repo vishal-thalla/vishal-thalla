@@ -1,6 +1,6 @@
 ### Hi, I'm Vishal Thalla
 
-Senior software engineer in Midrand, South Africa. 5+ years building production **Python backends**, distributed platforms and **AI-integrated systems**.
+Software engineer in Midrand, South Africa. I build **Python backends**, **agents** and **ML experiments**, and publish the ones worth sharing.
 
 **What I work on**
 
@@ -29,22 +29,13 @@ Senior software engineer in Midrand, South Africa. 5+ years building production 
 #### Featured projects
 
 - **[cnn-trading-signals](https://github.com/vishal-thalla/cnn-trading-signals)** — Research-grade Python pipeline: OHLCV data → 15×15 indicator images (15 indicators × 15 look-back periods) → turning-point labels → PyTorch CNN vs scikit-learn baselines under purged walk-forward validation, with a cost-aware backtester (spread, commission, next-bar execution) and benchmark comparison. Rebuild of a 2023–24 team project co-built with Sirshen Munsamy. *PyTorch · scikit-learn · pandas · pytest · GitHub Actions*
-- **[OpenMausBot](https://github.com/vishal-thalla/OpenMausBot)** (fork) — Open-source Grok Bot alternative where AI bots share a virtual machine. My changes let a paired, authenticated admin grant Full access remotely and preserve approval levels when switching between Claude Code and Codex, with end-to-end tests. *TypeScript*
 
-**From production work** (private codebases)
+#### What I like building
 
-- Agentic workflow that resolves Kubernetes errors by opening Helm chart PRs and re-syncing ArgoCD (Nintex)
-- Real-time telemetry pipeline on Azure Service Bus feeding operational and user-profiling analytics (Nintex)
-- Kafka integration platform: .NET 8 services across 400+ integration points, 99.9% integration reliability (Dariel)
-- ML lifecycle API orchestrating models through Kubeflow with Django and FastAPI (DotModus)
-
-#### Experience
-
-- **Software Engineer, Nintex** (2025–present): Python/TypeScript/C# services on a multi-region microservices platform; LLM tool services, agentic remediation, Azure + Kubernetes GitOps
-- **Freelance Software Engineer** (2024–present): AI-powered automation services and multi-tenant SaaS backends (Django, DRF, FastAPI, React) with RBAC and tenant isolation
-- **Full Stack Engineer / Tech Lead, Dariel** (2023–2025): led 4 developers; Kafka integrations; Keycloak auth; .NET Framework 4.7 → .NET 8 migration of core financial systems
-- **Software Developer (Python), DotModus** (2021–2022): Django + FastAPI backend for ML model lifecycles on Kubeflow
-- **RPA Developer, FIRTech** (2020–2021): lead developer on two Document Understanding automation projects
+- Agents that notice something broken and propose a reviewed fix
+- Tools LLMs can call safely inside real products
+- Event-driven backends that survive restarts, replays and partial failures
+- ML experiments evaluated honestly enough that "no edge" is a result
 
 **Education:** BEng Computer Engineering, University of Pretoria (2022)
 
