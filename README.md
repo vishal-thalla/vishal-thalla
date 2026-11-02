@@ -1,19 +1,22 @@
 ### Hi, I'm Vishal Thalla
 
-Software engineer in Midrand, South Africa. I build **Python backends**, **agents** and **ML experiments**, and publish the ones worth sharing.
+Software engineer in Midrand, South Africa. I build full-stack products in **TypeScript** and **Python**, plus **AI agents** and **ML experiments**, and publish the ones worth sharing. I also write some **C#/.NET**.
 
 **What I work on**
 
-- Backend services and REST APIs in Python (FastAPI, Django, DRF), plus TypeScript and C#/.NET
+- Product and UI work in TypeScript: React, Node.js, Angular, Electron
+- APIs, data and ML in Python: FastAPI, Django/DRF, PyTorch; C#/.NET 8 when a platform needs it
 - Event-driven integrations (Kafka, Azure Service Bus) and multi-region microservices
 - LLM orchestration, agentic workflows and tool APIs for LLMs; ML pipelines with PyTorch, scikit-learn and Kubeflow
 - Kubernetes delivery with Helm, ArgoCD and Terraform on Azure
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
