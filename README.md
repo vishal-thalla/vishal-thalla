@@ -28,7 +28,7 @@ Software engineer in Midrand, South Africa. I build **Python backends**, **agent
 
 #### Featured projects
 
-- **[cnn-trading-signals](https://github.com/vishal-thalla/cnn-trading-signals)** — Research-grade Python pipeline: OHLCV data → 15×15 indicator images (15 indicators × 15 look-back periods) → turning-point labels → PyTorch CNN vs scikit-learn baselines under purged walk-forward validation, with a cost-aware backtester (spread, commission, next-bar execution) and benchmark comparison. Rebuild of a 2023–24 team project co-built with Sirshen Munsamy. *PyTorch · scikit-learn · pandas · pytest · GitHub Actions*
+- **[cnn-trading-signals](https://github.com/vishal-thalla/cnn-trading-signals)** — Research-grade Python pipeline: OHLCV data → 15×15 indicator images (15 indicators × 15 look-back periods) → turning-point labels → PyTorch CNN vs scikit-learn baselines under purged walk-forward validation, with a cost-aware backtester (spread, commission, next-bar execution) and benchmark comparison. Rebuild of a 2023–24 project. *PyTorch · scikit-learn · pandas · pytest · GitHub Actions*
 
 #### What I like building
 
